@@ -70,7 +70,8 @@
                 "icon": "linkedin",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "&c"
     },
     "domain": "https://terrific-lavender-56caf.netlify.app"
 }
